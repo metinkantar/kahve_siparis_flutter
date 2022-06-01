@@ -21,10 +21,10 @@ Future<void> main() async {
   } else {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: "AIzaSyDZD_iISQxMddHTZ8IVSWfjDNGwR3SZoZQ",
-        appId: "1:922144246291:android:ff8adfbfe65c32b2b44de6",
-        messagingSenderId: "922144246291",
-        projectId: "coffeapp-cfeaf",
+        apiKey: "sdsdsd",
+        appId: "sdsd",
+        messagingSenderId: "sdsd",
+        projectId: "sdsds-dsd",
       ),
     );
   }
